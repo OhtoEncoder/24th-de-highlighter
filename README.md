@@ -31,7 +31,7 @@
 성현준 | 팀장, KStreams, AWS
 이우흥 | KStreams
 서건하 | KStreams
-오재현 | Kassandra
+오재현 | Cassandra/MongoDB
 유지민 | Video Downloader/Processor
 류지현 | Title Generation
 임채림 | Chat log Retrieval (Docker)
